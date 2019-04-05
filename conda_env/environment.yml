@@ -1,0 +1,13 @@
+name: data_analysis
+dependencies:
+  - python=3.7
+  - matplotlib
+  - jupyter
+  - ipython
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - pip
+  - sklearn
+  - pandas-profiling
